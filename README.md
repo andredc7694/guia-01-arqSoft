@@ -5,7 +5,7 @@ Docente: Ing. Lizbeth Jaico Quispe
 Curso: Arquitectura de Software - IS-488 (Semestre 2026-II)
 
 ## Descripción del curso
-[Breve descripción de qué trata el curso, en tus palabras]
+El curso de Arquitectura de Software enseña la planificación, estructura y organización de alto nivel de un sistema informático antes de comenzar a programar. Funciona como el plano maestro de una construcción
 
 ## Mis expectativas
 Espero aprender el uso correcto y eficiente de git, poder entregar un buen trabajo finla
